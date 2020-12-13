@@ -17,7 +17,7 @@ Administrator dodaje nowych pracowników do bazy danych.
 
 Kelner przyjmuje zamówienia od klientów oraz zmienia status zamówienia po jego dostarczeniu oraz przyjęciu zapłaty.
 
-Dodawanie nowego zamówienia
+Dodawanie nowego zamówienia:
 ![Przyjmowanie zamówienia 1](Zdjęcia/Kelner_przyjmowanie_zamówienia1.png)
 ![Przyjmowanie zamówienia 2](Zdjęcia/Kelner_przyjmowanie_zamówienia2.png)
 
